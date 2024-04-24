@@ -9,6 +9,10 @@ Simple Introduction
 
 ## Purpose
 
+ Sample purpose text
+
 ## Deployment
+
+sample diplyoyment text
 
 ## How to contribute
