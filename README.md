@@ -19,4 +19,4 @@ sample diplyoyment text
 
 sample text here
 
-COPYRIGHT 2024
+COPYRIGHT 2024. All rights reserved
