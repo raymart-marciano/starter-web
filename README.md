@@ -1,7 +1,7 @@
 # Starter Web Project
 
 THis is a simple website project for showing 
-how to use Git and Github together. add more thet
+how to use Git and Github together. add more thet, more changes for freature branch 
 
 ## Introduction
 
