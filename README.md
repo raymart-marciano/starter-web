@@ -5,6 +5,8 @@ how to use Git and Github together
 
 ## Introduction
 
+Simple Introduction
+
 ## Purpose
 
 ## Deployment
